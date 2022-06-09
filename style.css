@@ -1,0 +1,47 @@
+.fondo {
+    background-color: lightgoldenrodyellow;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+    
+}
+
+.SMR {
+    color: blue;
+    text-align: left;
+    text-decoration: overline;
+    text-decoration: blue;
+    background-color: rgb(194, 150, 157);
+}
+
+.DAM {
+    color: blue;
+    text-align: center;
+    text-decoration: overline;
+    text-decoration: blue;
+    background-color: rgb(68, 57, 57);
+}
+
+.ASIR {
+    color: blue;
+    text-align: right;
+    text-decoration: overline;
+    text-decoration: blue;
+    background-color: rgb(42, 159, 212);
+}
+
+.text {
+    color: blue;
+    text-align: center;
+    background-color: yellow;
+}
+
+p {
+    color: orange;
+    text-align: start;
+}
+
+
+
